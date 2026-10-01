@@ -15,8 +15,9 @@ display purposes, but the underlying value is not modified.
 
 # 3. Description of Files
 There are two directories available, code and doc. The files in the code directory are the source files for the FPTM and are only useful for those who want
-to modify the functionality of the FPTM. The files in the doc directory are instructions on use of the FPTM and should be useful for all users. Binary files
-for the FPTM are available as a release (link usually on the right side of the window). This is the version most people will find useful.
+to modify the functionality of the FPTM. These files are not needed for users who do not want to modify the source code. The files in the doc directory are
+instructions on use of the FPTM and should be useful for all users. Binary files for the FPTM are available as a release (link usually on the right side of
+the window). This is the version most people will find useful.
 
 # 4. Contact Information
 The FPTM is developed by 
