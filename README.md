@@ -5,7 +5,7 @@ modes of operation. Rules may be used to determine whether the system response w
 The FPTM is being developed in coordination with the efforts of ASHRAE SGPC 36 High Performance Sequences of Operation for HVAC Systems, and ASHRAE
 SPC 236 Method of Test for Control Programming Conformance with HVAC Sequences of Operation.
 The FPTM is currently at DRAFT stage and is actively being worked on.
-Instructions for installing and operating the FPTM can be found in the document "Directions for using FPTM software.rev3.docx" or a newer version
+Instructions for installing and operating the FPTM can be found in the document "Directions for using FPTM software.rev4.docx" or a newer version
 as indicated by the revision value.
 
 # 2. Measurement Uncertainty
@@ -17,7 +17,7 @@ display purposes, but the underlying value is not modified.
 There are two directories available, code and doc. The files in the code directory are the source files for the FPTM and are only useful for those who want
 to modify the functionality of the FPTM. These files are not needed for users who do not want to modify the source code. The files in the doc directory are
 instructions on use of the FPTM and should be useful for all users. Binary files for the FPTM are available as a release (link usually on the right side of
-the window). This is the version most people will find useful.
+the window). This is the version most people will find useful. A release version will be available when BETA testing is complete.
 
 # 4. Contact Information
 The FPTM is developed by 
