@@ -13,7 +13,12 @@ The FPTM does not take measurements of data. It does read measured values from c
 data. The measurement uncertainty of values in the FPTM depends on the uncertainty of the source of the data. In some cases a number may be rounded for 
 display purposes, but the underlying value is not modified.
 
-# 3. Contact Information
+# 3. Description of Files
+There are two directories available, code and doc. The files in the code directory are the source files for the FPTM and are only useful for those who want
+to modify the functionality of the FPTM. The files in the doc directory are instructions on use of the FPTM and should be useful for all users. Binary files
+for the FPTM are available as a release (link usually on the right side of the window). This is the version most people will find useful.
+
+# 4. Contact Information
 The FPTM is developed by 
 
 Michael A. Galler - mikeg@nist.gov
